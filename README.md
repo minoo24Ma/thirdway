@@ -1,4 +1,3 @@
-<div style="text-align: right"> 
 
 [این صفحه را ویرایش کنید](http://)
 
