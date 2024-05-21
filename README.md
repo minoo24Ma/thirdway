@@ -1,6 +1,6 @@
 <div style="text-align: right"> 
 
-| :memo:        | [این صفحه را ویرایش کنید](http://)|
+| :memo:        | [این صفحه را ویرایش کنید](https://github.com/peymanr/thirdway/edit/main/README.md)|
 |---------------|:------------------------|
 
 </div>
